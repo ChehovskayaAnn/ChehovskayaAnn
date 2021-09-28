@@ -45,11 +45,6 @@ q:before, q:after {
 table {
   border-collapse: collapse;
   border-spacing: 0;
-}3header {
-  background-image: url(../images/005.jpg);
-  width: 100%;
-  padding: 10px;
-  text-align: center;
 }
   
 header {
