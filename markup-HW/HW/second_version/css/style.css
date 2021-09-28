@@ -52,46 +52,41 @@ margin: 10px;
 }
 
 .LightPink {
-display: block;	
+display: inline-block; 
 background: #FFB6C1;
 width: 33%;
 height: 150px;
-float: left;
 }
 
 .LightGray {
-display: block;	
+display: inline-block; 
 background: #D3D3D3;
 width: 33%;
 height: 150px;
-float: left;
 }
 
 .Moccasin {
-display: block;	
+display: inline-block; 
 background: #FFE4B5;
 width: 33%;
 height: 150px;
-float: left;
 }
 
-.clear {
-clear: left;
+.second {
+margin-top: 0px;
 }
 
 .BlanchedAlmond {
-display: block;	
+display: inline-block; 
 background: #FFEBCD;
 width: 66%;
 height: 150px;
-float: left;
 }
 
 .trio {
-display: block;	
+display: inline-block; 
 width: 33%;
 height: 150px;
-float: left;
 }
 
 .firststrip {
@@ -110,10 +105,9 @@ background: #FFE4B5;
 }
 
 .twin {
-display: block;	
+display: inline-block; 
 width: 33%;
 height: 150px;
-float: left;
 }
 
 .PowderBlue {
@@ -127,18 +121,16 @@ background: #87CEEB;
 }
 
 .blue {
-display: block;	
+display: inline-block; 
 background: #87CEEB;
 width: 33%;
 height: 150px;
-float: left;
 }
 
 .quadruple {
-display: block;	
+display: inline-block; 
 width: 33%;
 height: 150px;
-float: left;
 }
 
 .one {
@@ -149,4 +141,8 @@ background: #FFE4B5;
 .two {
 height: 37.5px;
 background: #D3D3D3;
+}
+
+.margin {
+margin: -4px;
 }
